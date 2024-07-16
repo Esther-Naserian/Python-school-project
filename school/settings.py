@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "student",
     "classroom",
     "classperiod",
+    "rest_framework"
     
     
     
